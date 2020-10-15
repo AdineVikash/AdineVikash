@@ -7,5 +7,6 @@ Look My Site, Link - https://adine.tech
 ## My Tech Youtube Channel 
 Look My Youtube, Link - https://www.youtube.com/AdineTech
 
-I Believe i can learn Javascript well from My Friend, He Helped me to Take step on Coding Life
+I Believe i can learn Javascript help of My Friend, He Helped me to Take step on Coding Life
+
 Thank You Sudhan 
