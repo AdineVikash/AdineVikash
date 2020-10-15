@@ -6,7 +6,7 @@ My Friend's Github Profile-https://github.com/SudhanPlayz
 ## My Site
 Look My Site - https://adine.tech
 ## My Tech Youtube Channel 
-Look My Youtube - https://www.youtube.com/AdineTech
+Look My Youtube Channel - https://www.youtube.com/AdineTech
 
 I Believe i can learn Javascript with  help of My Friend and Google, He Helped me to Take step on Coding Life
 
