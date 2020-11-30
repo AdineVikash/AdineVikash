@@ -4,7 +4,7 @@ He is My Friend who Helped me a Lot
 
 Totally, He is God for me and makes me as Startup Programmer
 
-My Friend's Github Profile:https://github.com/SudhanPlayz
+My Friend's Github Profile: https://github.com/SudhanPlayz
 
 ## Team site
 Look my team site ;) - https://greentree.cf/ 
