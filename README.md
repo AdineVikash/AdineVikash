@@ -6,10 +6,10 @@ Totally, He is God for me and makes me as Startup Programmer
 
 My Friend's Github Profile: https://github.com/SudhanPlayz
 
-## Team site
-My team site ;) - https://greentree.cf/ 
+## Team website
+My team website ;) - https://greentree.cf/ 
 
-## My Site
+## My website
 My static website: https://adine.tech
 
 ## My Tech Youtube Channel 
