@@ -11,7 +11,7 @@ My Friend's Github Profile: https://github.com/SudhanPlayz
 
 ## Support mails
 #### GreenTree Team     - support@greentree.cf (Coming Soon ™️)
-##### Project Battlecord - support@battlecord.xyz (Created and alive for Support)
+#### Project Battlecord - support@battlecord.xyz (Created and alive for Support)
 
 ## My & Team Discord Server
 #### GreenTree Team - http://discord.gg/TGk95ptrf2
