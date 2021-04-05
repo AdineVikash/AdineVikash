@@ -1,6 +1,5 @@
-# About me and Team
-My age is 14, and I am a Small **C Programmer** and **Learning Javascript** with help of **@SudhanPlayz** and a Small Youtuber ;)
-He is My Friend who Helped me a Lot 
+# About me and GreenTree Team
+Hello I'm Adine and 15, and a Small **C Programmer** and **Learning Javascript** with help of **@SudhanPlayz** and a Small Youtuber also Technical Expert ;)
 
 Totally, He is God for me and makes me as Startup Programmer
 My Friend's Github Profile: https://github.com/SudhanPlayz
