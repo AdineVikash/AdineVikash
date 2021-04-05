@@ -6,16 +6,11 @@ Totally, He is God for me and makes me as Startup Programmer
 My Friend's Github Profile: https://github.com/SudhanPlayz
 
 ## About My Team 
-#### My team website        : https://greentree.cf/
+#### My team website        : https://greentree.team/
 #### GreenTree Team twitter : https://twitter.com/greentreeteam 
 
-## My & Team Discord Server
-#### GreenTree Team - http://discord.gg/TGk95ptrf2
-#### Battlecord     - http://discord.gg/qCBqypWZmG 
-#### My Server      - https://discord.gg/vYr22rf
-
-## Currently Working Team projects
-#### Battlecord :https://battlecord.xyz/ (Website will be created soon!)
+## My Discord server
+#### https://discord.gg/vYr22rf
 
 ## My website
 My website: https://adine.tech
